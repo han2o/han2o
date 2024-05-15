@@ -105,22 +105,26 @@
         {
             "skill_name": "竞品调研及分析",
             "skill_level": 80,
-            "skill_desc": "",
+            "skill_desc": "竞品调研及分析",
             "dataIndex": 1
         },
         {
             "skill_name": "项目管理",
             "skill_level": 90,
-            "skill_desc": "",
+            "skill_desc": "项目管理",
             "dataIndex": 2
         },
         {
             "skill_name": "需求落地及迭代优化",
-            "skill_level": 100
+            "skill_level": 100,
+            "skill_desc": "需求落地及迭代优化",
+            "dataIndex": 3
         },
         {
             "skill_name": "产品规划及演进",
-            "skill_level": 80
+            "skill_level": 80,
+            "skill_desc": "产品规划及演进",
+            "dataIndex": 4
         }
     ],
     "projectList": [
